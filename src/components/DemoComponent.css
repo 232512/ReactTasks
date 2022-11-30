@@ -1,0 +1,27 @@
+.myComponent{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 60%;
+    height: 90px;
+    margin: auto;
+    font-size: 26px;
+    display:flex;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+
+.showPrice{
+    background-color: green;
+    color: yellow;
+    font-weight: 800;
+    width:23%;
+    text-align: center;
+}
+.buttonStyle
+{font-size: 200;
+  font-weight: bolder;
+  background-color: burlywood;
+}
+.showType
+{
+    width: 40%;
+}

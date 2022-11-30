@@ -1,0 +1,27 @@
+.myComponents{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 60%;
+    height: auto;
+    margin: auto;
+    font-size: 20px;
+    display:flex;
+    flex-direction: column;
+    background-color:lightgoldenrodyellow;
+    justify-content: space-between;
+}
+.myInputBoxes
+{ font-size:32px;
+    width: 60%;
+}
+.myButton
+{   font-size: 30px;
+    color: white;
+    border-radius: 12px;
+    background-color:cornflowerblue;
+
+}
+.newFlex
+{
+    display: flex;
+    flex-direction: row-reverse;
+}

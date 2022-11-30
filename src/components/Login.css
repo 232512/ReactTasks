@@ -1,0 +1,26 @@
+.userComponent{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 60%;
+    height: auto;
+    margin: auto;
+    font-size: 20px;
+    display:flex;
+    flex-direction: column;
+    background-color:lightgoldenrodyellow;
+    justify-content: space-between;
+}
+.userInputBoxes
+{ font-size:32px;
+    width: 60%;
+}
+.userButton
+{   font-size: 30px;
+    color: white;
+    border-radius: 12px;
+    background-color:cornflowerblue;
+
+}
+.userButton1{
+    display: flex;
+    flex-direction: row-reverse;
+}

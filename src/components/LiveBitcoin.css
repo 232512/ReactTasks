@@ -1,0 +1,22 @@
+.bitcoinComponent{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 60%;
+    height: 35px;
+    margin: auto;
+    font-size: 26px;
+    display:flex;
+    margin-bottom: 10px;
+    flex-direction: row-reverse;
+   
+}
+.bitcoinButton{
+font-size: 20px;
+width:130px;
+
+
+}
+.priceSelection{
+    font-size: 38px;
+    color:red;
+    font-weight:bolder;
+}

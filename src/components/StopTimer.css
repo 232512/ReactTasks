@@ -1,0 +1,23 @@
+.TimerComponent{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 60%;
+    height: auto;
+    margin: auto;
+    font-size: 20px;
+    display:flex;
+    flex-direction: column;
+    background-color:lightgoldenrodyellow;
+    justify-content: space-between;
+}
+
+.TimerButton
+{   font-size: 30px;
+    color: white;
+    border-radius: 12px;
+    background-color:cornflowerblue;
+
+}
+.myText{
+    font-size:50px;
+    border:2px solid red;
+}
